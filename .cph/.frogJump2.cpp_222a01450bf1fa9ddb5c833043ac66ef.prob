@@ -1,0 +1,1 @@
+{"name":"Local: frogJump2","url":"/media/diganta/New Volume/Topic wise DSA/DP-series/frogJump2.cpp","tests":[{"id":1644560886667,"input":"5 3\n10 30 40 50 20\n","output":"30\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/diganta/New Volume/Topic wise DSA/DP-series/frogJump2.cpp","group":"local","local":true}
